@@ -5,8 +5,8 @@
 > Sun C, Liu H, Liu M, et al. LARA: Attribute-to-feature adversarial learning for new-item recommendation[C]//Proceedings of the 13th International Conference on Web Search and Data Mining. 2020: 582-590.
 
 #### Result
-![plot](result_plot.png)
-![result](result_cut.PNG)
+![plot](hw2-LARA/result_plot.png)
+![result](hw2-LARA/result_cut.PNG)
 
 #### Description
 数据文件使用原作者库中处理好的数据
